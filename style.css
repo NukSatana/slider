@@ -1,0 +1,40 @@
+#main {
+	position:relative;
+	margin: 100px auto;
+	padding: 5px;
+	width: 660px;
+	height:360px;
+	background-color: rgb(85, 160, 101);
+	border: 5px solid rgb(88, 184, 104);
+	border-radius:15px;
+}
+
+#scr {
+	margin:20px auto;
+	width: 600px;
+	height: 320px;
+	margin-top:20px;
+	background-color: rgb(8, 221, 43);
+	background-size:cover;
+	border: 2px solid lime;
+	border-radius:10px;
+}
+
+button {
+	position: absolute;
+	top: 150px;
+	width: 25px;
+	height: 70px;
+	font: 12pt arial,tahoma,sans-serif;
+	text-align: center;
+	background-color: aqua;
+	border-radius: 30px;
+}
+
+.left {
+	left:5px;
+}
+
+.right {
+	right:5px;
+}
